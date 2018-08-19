@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LaSegundaActivity</string>
+
+    <string name="textView_titulo_main">Mi Monedero</string>
+    <string name="textView_subtitulo_main">Registrate aqui para obtener nuestro servicio</string>
+    <string name="editText_nombre_main">Nombre</string>
+    <string name="editText_email_main">Email</string>
+    <string name="editText_usuraio_main">Usuario</string>
+    <string name="editText_contraseña_main">Contraseña</string>
+    <string name="button_registrar_main">REGISTRAR</string>
+
+    <string name="textView_titulo_detail">Completaste el registro al 100%</string>
+    <string name="textView_felicitaciones_detail">FELICITACIONES</string>
+    <string name="textView_monto_detail">S./ 50.00</string>
+    <string name="textView_informacion_detail">de regalo</string>
+
+</resources>
