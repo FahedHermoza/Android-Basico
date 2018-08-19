@@ -1,11 +1,10 @@
 # Aprende Android
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
-**_El camino difícil_**
 Repositorios de aplicaciones android con videos explicando el código, las aplicaciones tienen un nivel básico. 
 
 ![andras-kovacs-129181-unsplash](https://user-images.githubusercontent.com/8326973/44313835-f5fa0e80-a3d4-11e8-8ed9-51abefbc9317.jpg)
-
+**_El camino difícil_**
 ______
 
 ## Instalación
