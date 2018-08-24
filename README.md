@@ -11,7 +11,7 @@ ______
 Descarga el codigo fuente de este repositorio, luego abrir el proyecto con Android Studio.
 
 ## 1. App Mi Monedero  :money_with_wings:
-Esta app realiza un registro de usuario y lanza una nueva activity pasandole datos. Puede ver el video aqui.
+Esta app realiza un registro de usuario y lanza una nueva activity pasandole datos. Puede ver el video [aqui](https://www.youtube.com/watch?v=kRl2BNrsO4Y).
 
 ### Aprendizaje 
 
@@ -28,4 +28,4 @@ Esta app realiza un registro de usuario y lanza una nueva activity pasandole dat
 
 
 ## Desarrollador
-**Si te sirvió** puedes darme manito arriba en mi [blog](https://www.facebook.com/fahedhermoza/)
+**Si te sirvió** puedes darme manito arriba en mi [blog](https://www.facebook.com/fahedhermoza/).
