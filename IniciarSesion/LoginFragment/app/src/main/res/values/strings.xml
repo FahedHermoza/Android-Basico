@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginFragment</string>
+    <string name="action_settings">Settings</string>
+    <!-- Splash Screen-->
+    <string name="title_app_name">E Corp</string>
+    <string name="subtitle_splash_screen">Banca Móvil</string>
+    <string name="question_splash_screen">¿Ya tienes una cuenta?</string>
+    <string name="login_splash_screen">Inicia Sesión</string>
+    <string name="term_splash_screen">Terminos de uso y privacidad</string>
+    <!-- Login Screen-->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="email_login">Correo Electronico</string>
+    <string name="password_login">Contraseña</string>
+    <string name="begin_login">INICIAR SESIÓN</string>
+    <string name="snackbar_error_login">Ingrese datos validos</string>
+    <string name="snackbar_account_success_login">Bienvenido admin!!!</string>
+    <string name="snackbar_account_error_login">¡Email y password incorrecto!</string>
+</resources>
