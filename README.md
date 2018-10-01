@@ -11,7 +11,7 @@ ______
 Descarga el codigo fuente de este repositorio, luego abrir el proyecto con Android Studio.
 
 ## 1. App Mi Monedero  :money_with_wings:
-Esta app realiza un registro de usuario y lanza una nueva activity pasandole datos. Puede ver el video [aqui](https://www.youtube.com/watch?v=kRl2BNrsO4Y).
+Esta app realiza un registro de usuario y lanza una nueva activity pasandole datos. Puede ver el video [aquí](https://www.youtube.com/watch?v=kRl2BNrsO4Y).
 
 ### Aprendizaje 
 
@@ -26,22 +26,23 @@ Esta app realiza un registro de usuario y lanza una nueva activity pasandole dat
 * [Iniciar otra activity](https://developer.android.com/training/basics/firstapp/starting-activity)
 
 ## 2. App Iniciar Sesión  :lock:
-Consta de 2 apps, en ambos se implementa un Login. La primera construido en Activity y la segunda contruido en Fragment. Puede ver el video [aqui](https://www.youtube.com/watch?v=kRl2BNrsO4Y).
+Consta de 2 apps, en ambos se implementa un Login. La primera construido en Activity y la segunda construido en Fragment. Puede ver el video [aquí](https://www.youtube.com/watch?v=ua9N_YqB6TU&feature=youtu.be).
 
 ### Aprendizaje 
 
 * Implementado en Activity y Fragment.
 * Diferencias de código entre Activity y Fragment.
 * Implementación de diseño básico.
-* Implementación de imagenes con Scalable Vector Graphics (SVG).
-* Implementación con Protección Background (ScrimSplash).
-* Implementación de boton redondeado.
+* Implementación de imágenes con Scalable Vector Graphics (SVG).
+* Implementación con Protection Background (ScrimSplash).
+* Implementación de botón redondeado.
 
 ### Referencias 
 * [Activity](https://developer.android.com/guide/components/activities)
 * [Fragment](https://developer.android.com/guide/components/fragments)
 * [View](https://developer.android.com/reference/android/view/View)
-* [Boton redondeado](https://stackoverflow.com/questions/9334618/rounded-button-in-android)
+* [SVG](https://developer.android.com/studio/write/vector-asset-studio?hl=es-419)
+* [Botón redondeado](https://stackoverflow.com/questions/9334618/rounded-button-in-android)
 * [Comprendiendo Vistas y Grupo de Vistas](https://code.tutsplus.com/es/tutorials/android-from-scratch-understanding-views-and-view-groups--cms-26043)
 
 ## Desarrollador
