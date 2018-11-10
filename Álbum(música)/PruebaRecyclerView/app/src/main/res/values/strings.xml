@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaRecyclerView</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="textView_titulo">Título: Puto</string>
+    <string name="textView_artista">Artista:  Molotov</string>
+</resources>
