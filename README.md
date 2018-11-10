@@ -45,5 +45,19 @@ Consta de 2 apps, en ambos se implementa un Login. La primera construido en Acti
 * [Botón redondeado](https://stackoverflow.com/questions/9334618/rounded-button-in-android)
 * [Comprendiendo Vistas y Grupo de Vistas](https://code.tutsplus.com/es/tutorials/android-from-scratch-understanding-views-and-view-groups--cms-26043)
 
+## 3. App Álbum(música)  :musical_note:
+Esta app construye una lista de Álbums de música utilizando RecyclerView y CardView. Puede ver el video [aquí](https://youtu.be/4XucuFfJy_8).
+
+### Aprendizaje 
+
+* Implementado en Fragment.
+* Implementación de Recycler View(adapter).
+* Implementación de Card View.
+
+### Referencias 
+* [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
+* [CardView](https://developer.android.com/guide/topics/ui/layout/cardview)
+* [Uplabs](https://www.uplabs.com/search?q=cards)
+
 ## Desarrollador
 **Si te sirvió** puedes darme manito arriba en mi [blog](https://www.facebook.com/fahedhermoza/).
